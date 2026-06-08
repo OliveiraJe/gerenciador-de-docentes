@@ -18,6 +18,7 @@ Gerenciamento Completo (CRUD): Telas dedicadas para Cadastro, Consulta, Atualiza
 - Disciplinas (disciplinas.csv)
 - Professores (professor.csv)
 - Inscrições (inscricoes.csv)<br>
+
 Integridade de Dados: A exclusão de uma disciplina remove automaticamente todas as suas inscrições vinculadas.
 
 📁 **Estrutura do Projeto (3 camadas)**
