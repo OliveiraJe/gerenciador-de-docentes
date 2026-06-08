@@ -5,22 +5,22 @@
 
 ---
 
-🎓# Sistema de Chamada Pública para Contratação de Docentes
+🎓 **Sistema de Chamada Pública para Contratação de Docentes**
 
 Este projeto consiste em um sistema interno para gerenciamento de chamadas públicas de contratação temporária de professores em uma faculdade. O sistema foi desenvolvido com foco na aplicação prática de Estruturas de Dados clássicas e Persistência de Dados em arquivos CSV.
 
-🚀# Funcionalidades Principais
+🚀 **Funcionalidades Principais**
 
 Acesso Restrito: Sistema de uso exclusivo para funcionários da instituição;<br>
-Persistência Automatizada: Todas as operações são feitas via sistema (sem manipulação direta nos arquivos CSV);
-Gerenciamento Completo (CRUD): Telas dedicadas para Cadastro, Consulta, Atualização e Remoção de:
+Persistência Automatizada: Todas as operações são feitas via sistema (sem manipulação direta nos arquivos CSV);<br>
+Gerenciamento Completo (CRUD): Telas dedicadas para Cadastro, Consulta, Atualização e Remoção de:<br>
 - Cursos (cursos.csv)
 - Disciplinas (disciplinas.csv)
 - Professores (professor.csv)
-- Inscrições (inscricoes.csv)
+- Inscrições (inscricoes.csv)<br>
 Integridade de Dados: A exclusão de uma disciplina remove automaticamente todas as suas inscrições vinculadas.
 
-📁 Estrutura do Projeto (3 camadas)
+📁 **Estrutura do Projeto (3 camadas)**
 
 ```
 gerenciadordedocentes/
