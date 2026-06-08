@@ -1,7 +1,7 @@
 # Gerenciador de Docentes – FATEC ZL
-Desenvolvedores: Henrique de Oliveira - Igor Melo - Jefferson Oliveira
-Disciplina: Estrutura de Dados
-Prof.: Leandro Colevati
+- Desenvolvedores: Henrique de Oliveira - Igor Melo - Jefferson Oliveira
+- Disciplina: Estrutura de Dados
+- Prof.: Leandro Colevati
 
 ---
 
